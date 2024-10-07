@@ -1,5 +1,6 @@
 # Introduction
-![My Image](SurentharRajamohan.jpg) <!-- Link to the uploaded image -->
+<img src="SurentharRajamohan.jpg" alt="My Picture" height="540" width="405" />
+
 <hr>
 Hi! I'm Surenthar Rajamohan, a student in the Software Maintenance
 and Evolution course.
